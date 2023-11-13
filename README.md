@@ -25,13 +25,13 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-angular-project.git
+    git clone https://github.com/Ironmandeveloper/Angular-Application.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd your-angular-project
+    cd Angular-Application
     ```
 
 3. Install dependencies:
