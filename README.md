@@ -1,27 +1,70 @@
-# AngularTest
+# Angular Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
 
-## Development server
+## Project Overview
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+This Angular project demonstrates the integration of various powerful libraries for creating interactive charts, tables, and Gantt charts. The project utilizes the following technologies:
 
-## Code scaffolding
+- [Highcharts](https://www.highcharts.com/): Interactive JavaScript charts for your web pages.
+- [Angular Material Table](https://material.angular.io/components/table/overview): A set of UI components for building high-quality, responsive user interfaces.
+- [Angular Material Expandable Table](https://github.com/elhigu/material-table): An extension for Angular Material Table that allows rows to be expanded to show additional content.
+- [Angular Gantt Chart](https://www.angular-gantt.com/): A Gantt chart component for Angular.
+- [AG Grid](https://www.ag-grid.com/): A feature-rich Angular grid library.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Getting Started
 
-## Build
+### Prerequisites
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Make sure you have the following installed on your machine:
 
-## Running unit tests
+- [Node.js](https://nodejs.org/): JavaScript runtime
+- [Angular CLI](https://angular.io/cli): Command Line Interface for Angular
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Installation
 
-## Running end-to-end tests
+1. Clone the repository:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+    ```bash
+    git clone https://github.com/yourusername/your-angular-project.git
+    ```
 
-## Further help
+2. Navigate to the project directory:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+    ```bash
+    cd your-angular-project
+    ```
+
+3. Install dependencies:
+
+    ```bash
+    npm install
+    ```
+
+### Running the Application
+
+Run the development server:
+
+```bash
+ng serve
+```
+
+### Features
+
+1. Highcharts Integration:
+- Sample Highcharts components are located in the `src/app/highcharts` directory.
+
+2. Angular Material Table
+- Basic Angular Material Table is implemented in the `src/app/material-table` directory
+
+3. Angular Material Expandable Table:
+- An extension of Angular Material Table with expandable rows is showcased in the `src/app/expandable-table` directory.
+
+4. Angular Gantt Chart:
+- Gantt chart functionality can be found in the `src/app/gantt-chart` directory.
+
+5. AG Grid:
+- AG Grid is used for advanced grid functionalities in the `src/app/ag-grid` directory.
+
+### Contributing
+
+Contributions are welcome! If you find any issues or want to add new features, please open an issue or submit a `pull request`.
