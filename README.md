@@ -50,7 +50,7 @@ ng serve
 
 ### Features
 
-1. Highcharts Integration:(#Pie Chart)
+1. Highcharts Integration:
 - Sample Highcharts components are located in the `src/app/highcharts` directory.
 
 2. Angular Material Table
