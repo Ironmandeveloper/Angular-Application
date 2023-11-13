@@ -50,7 +50,7 @@ ng serve
 
 ### Features
 
-1. Highcharts Integration:
+1. Highcharts Integration:(#Pie Chart)
 - Sample Highcharts components are located in the `src/app/highcharts` directory.
 
 2. Angular Material Table
@@ -68,3 +68,28 @@ ng serve
 ### Contributing
 
 Contributions are welcome! If you find any issues or want to add new features, please open an issue or submit a `pull request`.
+
+### Screenshots
+
+![Pie Chart](https://github.com/Ironmandeveloper/Angular-Application/assets/132562232/28074444-d1ac-419c-9457-28cd11220f20)
+
+
+![Population](https://github.com/Ironmandeveloper/Angular-Application/assets/132562232/6509708c-316b-4daf-9797-b8da4bb01ca2)
+
+
+![Random Chart](https://github.com/Ironmandeveloper/Angular-Application/assets/132562232/4fbe320c-5c29-466f-a5d2-f3d9ff9cfdb2)
+
+
+![Angular Table](https://github.com/Ironmandeveloper/Angular-Application/assets/132562232/440924c2-ae69-4299-b4a4-392173c15c11)
+
+
+![Ag Grid](https://github.com/Ironmandeveloper/Angular-Application/assets/132562232/0b0daf5b-89bb-403a-8611-5cb3c9be4ac0)
+
+
+![Expandable Table](https://github.com/Ironmandeveloper/Angular-Application/assets/132562232/aefd36ab-ca77-430b-b09d-418f73074093)
+
+
+![3D and Negative Chart](https://github.com/Ironmandeveloper/Angular-Application/assets/132562232/42cf115a-b920-4ea9-adbf-df6cd9c37572)
+
+
+![Gantt-Chart](https://github.com/Ironmandeveloper/Angular-Application/assets/132562232/f3dba7f9-ce7e-4acf-969a-0177fe1952cb)
